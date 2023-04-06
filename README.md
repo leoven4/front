@@ -16,7 +16,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key 
+1. Get your SSH Key 
 2. Clone the repo
    ```sh
    git clone https://github.com/leoven4/front.git
